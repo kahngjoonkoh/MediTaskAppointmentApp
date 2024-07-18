@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MediTaskAppointmentApp/static/css/main.34b42e9c.css",
+    "main.js": "/MediTaskAppointmentApp/static/js/main.c3ac3a72.js",
+    "static/js/453.f886f3b9.chunk.js": "/MediTaskAppointmentApp/static/js/453.f886f3b9.chunk.js",
+    "index.html": "/MediTaskAppointmentApp/index.html",
+    "main.34b42e9c.css.map": "/MediTaskAppointmentApp/static/css/main.34b42e9c.css.map",
+    "main.c3ac3a72.js.map": "/MediTaskAppointmentApp/static/js/main.c3ac3a72.js.map",
+    "453.f886f3b9.chunk.js.map": "/MediTaskAppointmentApp/static/js/453.f886f3b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34b42e9c.css",
+    "static/js/main.c3ac3a72.js"
+  ]
+}
